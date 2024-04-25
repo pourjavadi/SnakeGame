@@ -8,7 +8,7 @@ To run this game, you will need Python and Pygame installed. If you don't have P
 
 ```bash
 pip install pygame
-
+```
 ## How to Play
 Run the game by executing python snake_game.py.
 Use the arrow keys (←, ↑, →, ↓) to control the direction of the snake.
